@@ -50,6 +50,19 @@
 // let p = arr.slice(1,3);
 // console.log(p);
 
+
+// let arr = [[1,2,3],[4,5,6],[7,8,9]];
+// console.log(arr.flat());
+
+
+// let arr = [[1,2,3],[4,5,6],[7,8,9]];
+// console.log(typeof(arr.toString()));
+
+
+// let arr = "1234567";
+// console.log(typeof(parseInt(arr)));
+
+
 // Array quesrion
 
 // question 1 \\\\\\\\\\\\\\\\\\\
